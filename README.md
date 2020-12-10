@@ -2,7 +2,7 @@
 
 Dashboard for my smart home.
 
-![](images/2020-12-10-18-54-22.png)
+<img alt="2020-12-10-18-54-22" src="https://user-images.githubusercontent.com/18347732/101796605-22904200-3b1a-11eb-9763-b1c2625fccec.png" width="450">
 
 To start your Phoenix server:
 
