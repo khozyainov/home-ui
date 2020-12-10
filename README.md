@@ -2,6 +2,8 @@
 
 Dashboard for my smart home.
 
+![](images/2020-12-10-18-54-22.png)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
